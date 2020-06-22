@@ -1,0 +1,16 @@
+<svg width="550" height="120" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#aeb0b2" id="canvas_background" height="122" width="552" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="92" id="svg_1" y="101.347675" x="12.605209" stroke-width="0" stroke="#000" fill="#000000">M</text>
+  <text font-weight="bold" stroke="#000" transform="matrix(1.1342269182205202,0,0,1.21961475099454,-36.14073961973196,-36.061617785455866) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="92" id="svg_2" y="113.094909" x="126.326447" stroke-width="0" fill="#000000">ARTINS</text>
+  <text font-weight="bold" stroke="#000" transform="matrix(1.1220203934204613,0,0,0.827586233615875,13.446690595486753,32.04363774042576) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="21" id="svg_3" y="1.825712" x="0.362253" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">BANCO</text>
+ </g>
+</svg>
