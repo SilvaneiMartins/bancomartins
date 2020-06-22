@@ -16,7 +16,7 @@
   Demotração do layout desenvolvido.
 </h4>
 
-<a href="https://imgur.com/FDpU1W8"><img src="https://i.imgur.com/FDpU1W8.gif" title="source: imgur.com" /></a>
+<a align="center" href="https://imgur.com/FDpU1W8"><img src="https://i.imgur.com/FDpU1W8.gif" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
 
