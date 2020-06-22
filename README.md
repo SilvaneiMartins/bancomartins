@@ -12,11 +12,11 @@
   <a href="#memo-license">Licença</a>
 </p>
 
-<h4 align="center">
+<h4 align="left">
   Demotração do layout desenvolvido.
 </h4>
 
-<a align="center" href="https://imgur.com/FDpU1W8"><img src="https://i.imgur.com/FDpU1W8.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/FDpU1W8"><img src="https://i.imgur.com/FDpU1W8.gif" title="Banco Martins" /></a>
 
 ## :rocket: Tecnologias
 
