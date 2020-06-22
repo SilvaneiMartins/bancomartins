@@ -21,3 +21,21 @@ Este projeto foi desenvolvido com o propósito de aprender e aumentar mais meus 
 -  [ReactJS](https://reactjs.org/)
 -  [styled-components](https://www.styled-components.com/)
 -  [Typescript](https://www.typescriptlang.org/)
+
+## :information_source: Como usar
+
+Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.com) e [Yarn v1.13](https://yarnpkg.com/) ou maior instalados. Comandos:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/SilvaneiMartins/bancomartins
+
+# Go into the repository
+$ cd banco-web
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn start
+```
