@@ -13,14 +13,14 @@
 </p>
 
 <h4 align="left">
-  Demotração do layout desenvolvido.
+  Demotração do layout desenvolvido no estudo.
 </h4>
 
 <a href="https://imgur.com/FDpU1W8"><img src="https://i.imgur.com/FDpU1W8.gif" title="Banco Martins" /></a>
 
 ## :rocket: Tecnologias
 
-Este projeto foi desenvolvido com o propósito de aprender e aumentar mais meus conhecimentos a montar um layout responsivo utilizando o Flexbox. Sabendo disso, utizei as seguintes tecnologias:
+Este projeto foi desenvolvido em meus estudos, com o propósito de aprender e aumentar mais meus conhecimentos a montar um layout responsivo utilizando o Flexbox. Eu utizei as tecnologias logo abaixo:
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
