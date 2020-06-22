@@ -39,3 +39,10 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/andrewdourado/banco-web/blob/master/LICENSE) for more information.
+
+---
+
+Made with ♥ by Silvanei Martins :wave: [Get in touch!](https://www.linkedin.com/in/silvanei-martins-a5412436/)
